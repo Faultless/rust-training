@@ -1,0 +1,1 @@
+D:\Repos\rust-training\finder\target\debug\libfinder.rlib: D:\Repos\rust-training\finder\src\lib.rs D:\Repos\rust-training\finder\src\connector.rs D:\Repos\rust-training\finder\src\util.rs D:\Repos\rust-training\finder\src\scraper.rs D:\Repos\rust-training\finder\src\filterer.rs
